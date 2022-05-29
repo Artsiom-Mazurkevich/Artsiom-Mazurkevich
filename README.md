@@ -3,7 +3,7 @@
 <h3 align="center">I am WEB DEWELOPER</h3>
 <hr/>
 <h3 align="center">Familiar with</h3>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 
