@@ -1,8 +1,12 @@
-### Hi there 👋
-
 <h1 align="center">Hi there, I'm Artsiom</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Front-end web development</h3>
+<h3 align="center">I am WEB DEWELOPER</h3>
+<hr/>
+<h3 align="center">Familiar with</h3>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
 
 
 <!--
