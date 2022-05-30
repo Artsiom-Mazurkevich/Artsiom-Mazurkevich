@@ -3,7 +3,7 @@
 <h3 align="center">I am WEB DEWELOPER</h3>
 <hr/>
 <h3 align="center">Familiar with</h3>
-[Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?Artsiom-Mazurkevich=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Artsiom-Mazurkevich=anuraghazra&layout=compact)
 
 
 
