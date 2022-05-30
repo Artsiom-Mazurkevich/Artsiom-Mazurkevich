@@ -3,7 +3,9 @@
 <h3 align="center">I am WEB DEWELOPER</h3>
 <hr/>
 <h3 align="center">Familiar with</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Artsiom-Mazurkevich=anuraghazra&layout=compact)
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)" width="100"/>
+</div>
 
 
 
